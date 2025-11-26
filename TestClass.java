@@ -6,9 +6,6 @@
 public class TestClass {
 
     public int multiplicar(int a, int b) {
-        int aux = 1;
-        int aux2 = 1;
-        aux = 3;
         return a * b;
     }
 }
